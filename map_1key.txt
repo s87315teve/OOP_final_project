@@ -1,0 +1,29 @@
+ 0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123
+0key     |    |  TH_Lei     |               touch_me                tree                      0
+1        |    |             |  grass                                               tree       1
+2        |    |            _|                                                           tree  2
+3        |    |                                                                               3
+4        |    |                                                            this=is=gong=si====4
+5             |                              treetree                      h                  5
+6             |            __             tree     tree                    i                  6
+7             |    key      |           tree         BIRD                  s                  7
+8________|    |__Hao_Jan____|           ee    apple    ee                  |     YZ_Lin       8
+9              DOG                      tree         tree                  i                  9
+0                                         tree     tree                    s                  0
+1                                           treextree                      |                  1
+2    DOG                                       xxx    grass                E                  2
+3                                    grass     xxx                         D                  3
+4                                             xxxxx     CX_Shen            |                  4
+5 this=is=dien=tsu=da=lo                                                   |_____   __________5
+6                      |                                                                      6
+7                      |                                                                      7
+8                                                                                             8
+9                                     ===little=wooden=house===                               9
+0     LP_Tung          |              | waffle                |                  tree         0
+1                      |              | worker          []    |                               1
+2                      |              |                       |tree                           2
+3                      |  CAT         |_______|     |_________|                               3
+4______________________|                                                                      4
+5message:              |                                                               key    5
+6                      |                                                                      6
+.0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123
